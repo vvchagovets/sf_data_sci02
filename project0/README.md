@@ -21,5 +21,5 @@ Guess a number with minimum tries
 ### Case to solve
 Program to guess a number with minimal tries
 
-**of the competition**
+**Conditions of the competition**
 -
